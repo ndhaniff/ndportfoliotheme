@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eddiemachado/bones.git"
+    "url": "git+https://github.com/ndhaniff/ndportfoliotheme.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/eddiemachado/bones/issues"
-  },
-  "homepage": "https://github.com/eddiemachado/bones#readme",
+  "homepage": "http://nifdesign.com",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^2.2.0",
